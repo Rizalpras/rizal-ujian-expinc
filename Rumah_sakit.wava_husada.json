@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "656000e1760b881022a53173"
+  },
+  "alamat": "Jl. Panglima Sudirman 99A Kepanjen",
+  "telp": "0341-393000",
+  "fax": "0341-393000",
+  "email": "info@wafahusada.com",
+  "create_at": {
+    "$date": "2023-11-24T08:50:00.000Z"
+  },
+  "update_at": {
+    "$date": "2023-11-24T08:52:00.000Z"
+  }
+}]

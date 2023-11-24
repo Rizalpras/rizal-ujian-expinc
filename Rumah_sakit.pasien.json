@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65600037760b881022a53171"
+  },
+  "nama_pasien": "Arip",
+  "alamat_pasien": "Pagelaran",
+  "tanggal_lahir": "03-04-2006",
+  "create_at": {
+    "$date": "2023-11-24T08:50:00.000Z"
+  },
+  "update_at": {
+    "$date": "2023-11-24T08:52:00.000Z"
+  }
+}]

@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "65600290760b881022a5317c"
+  },
+  "tanggal_transaksi": {
+    "$date": "2023-08-03T00:00:00.000Z"
+  },
+  "deposit": 0,
+  "diskon": 0,
+  "pembayaran": 173037,
+  "total_harga": 173037,
+  "uraian": [
+    {
+      "jenis": "administrasi",
+      "harga": "30000"
+    },
+    {
+      "jenis": "obat&akses",
+      "harga": "93037"
+    },
+    {
+      "jenis": "pemeriksaan",
+      "harga": "50000"
+    },
+    {
+      "jenis": "perawat",
+      "biaya": "2500000"
+    },
+    {
+      "jenis": "UGD",
+      "biaya": "1000000"
+    }
+  ],
+  "biaya_lain": 0,
+  "create_at": {
+    "$date": "2023-11-24T09:05:00.000Z"
+  },
+  "update_at": {
+    "$date": "2023-11-24T09:15:00.000Z"
+  },
+  "KRS": "03/08/2023",
+  "MRS": "03/08/2023",
+  "No_WAVA": "012912301234",
+  "no_RM": "1123456",
+  "no_billing": "230123",
+  "no_invoice": "INV-0102WH_23_08"
+}]
